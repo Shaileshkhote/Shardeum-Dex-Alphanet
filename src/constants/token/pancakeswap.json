@@ -1,0 +1,30 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "../../assets/images/shm.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WSHM Token",
+      "symbol": "WSHM",
+      "address": "0x77cDD05f4823c0a6B1784E3Ba5328A6D44e916B2",
+      "chainId": 8080,
+      "decimals": 18,
+      "logoURI": "/assets/images/shm.png"
+    },
+    {
+      "name": "Test Swap Token",
+      "symbol": "TSWAP",
+      "address": "0xd95Eca40fB30d430F07fE280638C4CC063C97298",
+      "chainId": 8080,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+   ]
+}
