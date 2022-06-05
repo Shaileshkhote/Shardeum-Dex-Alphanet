@@ -33,6 +33,14 @@
       "chainId": 8080,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Shardeum Name Service",
+      "symbol": "HOLDO",
+      "address": "0x1722194408C865ADe9D53049a42ce97AA72F5573",
+      "chainId": 8080,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
     }
    ]
   
