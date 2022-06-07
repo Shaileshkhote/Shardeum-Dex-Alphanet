@@ -1,0 +1,40 @@
+{
+  "name": "Shardeum Tokens",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "Shardeum",
+    "Shard"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 8080,
+      "address": "0x1722194408C865ADe9D53049a42ce97AA72F5573",
+      "name": "Shardeum Name Service",
+      "symbol": "HOLDO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 8080,
+      "address": "0x77cDD05f4823c0a6B1784E3Ba5328A6D44e916B2",
+      "name": "Wrapped SHM",
+      "symbol": "WSHM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+        {
+      "chainId": 8080,
+      "address": "0x8dAbc79Ca4b660BC82CD55B85807B525065F488a",
+      "name": "Genesis Community Token",
+      "symbol": "GCSHM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
